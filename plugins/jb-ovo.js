@@ -5,9 +5,9 @@ let text = `${htki} OVO ${htka}
 
 💌 *Pembayaran*
 💳 Via: Ovo
-📞 Nomor: 088215689772
-👤 A/n: Fangz
-📦 Mitra: Fangz BOT
+📞 Nomor: Nomor Mati
+👤 A/n: Vinz
+📦 Mitra: xʜɪᴍᴍᴇʀ ʙᴏᴛ࿐
 💰 Metode pembayaran: Online ( ~Cod~ )
 
 📣 *Beli*
@@ -27,7 +27,7 @@ Pastikan saldo kamu mencukupi untuk bertransaksi!
 ❗KLIK *SUDAH BAYAR* JIKA SUDAH MEMBAYAR!
 `
 const templateButtons = [
-    {index: 1, urlButton: {displayText: 'QRIS', url: 'https://telegra.ph/file/ff71853efeb006d635a90.jpg'}},
+    {index: 1, urlButton: {displayText: 'Gweh', url: 'https://telegra.ph/file/6710e75ba062727fabfd9.jpg'}},
     {index: 4, quickReplyButton: {displayText: 'Sudah membayar', id: '.sudahbayar'}},
 ]
 let tm = {
