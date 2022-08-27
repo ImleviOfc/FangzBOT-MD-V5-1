@@ -1,14 +1,14 @@
 <p align="center">
     <img src="https://telegra.ph/file/8f49e507f5dce7188023d.jpg" width="100%" style="margin-left: auto;margin-right: auto;display: block;">
 </p>
-<h1 align="center">VinzBot - MD</h1>
+<h1 align="center">Venbotz - MD</h1>
 
 <p align="center">
-  <a href="https://github.com/ShionMDv"><img src="http://readme-typing-svg.herokuapp.com?color=FFFFFF&center=true&vCenter=true&multiline=false&lines=Vinz+BOT+Multi+Device;Base+ori+by+BochilGaming;Recode+By+Vinz;Give+star+and+forks+this+Repo+:D;Follow+My+Github" alt="UwU">
+  <a href="https://github.com/ImleviOfc"><img src="http://readme-typing-svg.herokuapp.com?color=FFFFFF&center=true&vCenter=true&multiline=false&lines=Vinz+BOT+Multi+Device;Base+ori+by+BochilGaming;Recode+By+Vinz;Give+star+and+forks+this+Repo+:D;Follow+My+Github" alt="UwU">
 </p>
 
 <p align="center">
- <a href="#"><img title="VinzBOT" src="https://img.shields.io/badge/VINZ BOT-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
+ <a href="#"><img title="VenBOT" src="https://img.shields.io/badge/VEN BOT-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
 </p>
 <p align="center">
 <a href=""><img title="Author" src="https://img.shields.io/badge/AUTHOR-FANGZ-blue.svg?style=for-the-badge&logo=github"></a>
@@ -16,7 +16,7 @@
 <a href="https://github.com/Fangzbotz2007/KaiZax
 <a href="https://github.com/Fangzbotz2007/Ayane45121
 <a href="https://github.com/Fangzbotz2007/FangzBOT
-
+<a href="https://github.com/Fangzbotz2007/ImleviOfc
 ---------
 ## ```Connect With Me 📞``` <img src="https://github.com/siegrin/siegrin/blob/main/Assets/Handshake.gif" height="32px">
   <a href="https://wa.me/6287734910547">
@@ -36,7 +36,7 @@
 ## ```Whatsapp``` <a href="https://wa.me/6287734910547"> <img align="left" alt="SIEGRIN | Whastapp" width="26px" src="https://github.com/siegrin/siegrin/blob/main/Assets/Whatsapp.svg" />
 [![BOT WHATSAPP](https://img.shields.io/badge/WhatsApp%20BOT-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/6281774916559) 
 [![ONWER](https://img.shields.io/badge/Owner%20BOT-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/6287734910547) 
-[![GROUP OFFICIAL](https://img.shields.io/badge/WhatsApp%20Group-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://chat.whatsapp.com/HpxyS6b45SoGIKG7LHddiM) 
+[![GROUP OFFICIAL](https://img.shields.io/badge/WhatsApp%20Group-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://chat.whatsapp.com/CElgl37YTIJKzugfUYIwX6) 
 
 ---------
 
@@ -49,28 +49,28 @@
 #### KELEBIHAN 📍
 | Kelebihan | Check |
 |--------|--------|
-| **Fast Respon** |[✔️](https://github.com/ShionMDv) |
-| **No Internet** |[✔️](https://github.com/ShionMDv) |
-| **Simple** |[✔️](https://github.com/ShionMDv) |
-| **Button template** |[✔️](https://github.com/ShionMDv) |
-| **Multi Device** |[✔️](https://github.com/ShionMDv) |
+| **Fast Respon** |[✔️](https://github.com/ImleviOfc) |
+| **No Internet** |[✔️](https://github.com/ImleviOfc) |
+| **Simple** |[✔️](https://github.com/ImleviOfc) |
+| **Button template** |[✔️](https://github.com/ImleviOfc) |
+| **Multi Device** |[✔️](https://github.com/ImleviOfc) |
 ---------
 #### FITUR 📍
 | Fitur | Check |
 |--------|--------|
-| **Downloader** |[✔️](https://github.com/ShionMDv) |
-| **Internet** |[✔️](https://github.com/ShionMDv) |
-| **Game Rpg** |[✔️](https://github.com/ShionMDv) |
-| **Nsfw** |[✔️](https://github.com/ShionMDv) |
-| **Sticker** |[✔️](https://github.com/ShionMDv) |
-| **Game** |[✔️](https://github.com/ShionMDv) |
-| **Kerang Ajaib** |[✔️](https://github.com/ShionMDv) |
-| **Quotes** |[✔️](https://github.com/ShionMDv) |
-| **Anime** |[✔️](https://github.com/ShionMDv) |
-| **Premium** |[✔️](https://github.com/ShionMDv) |
-| **Tools** |[✔️](https://github.com/ShionMDv) |
-| **Exec** |[✔️](https://github.com/ShionMDv) |
-| **React** |[✔️](https://github.com/ShionMDv) |
+| **Downloader** |[✔️](https://github.com/ImleviOfc) |
+| **Internet** |[✔️](https://github.com/ImleviOfc) |
+| **Game Rpg** |[✔️](https://github.com/ImleviOfc) |
+| **Nsfw** |[✔️](https://github.com/ImleviOfc) |
+| **Sticker** |[✔️](https://github.com/ImleviOfc) |
+| **Game** |[✔️](https://github.com/ImleviOfc) |
+| **Kerang Ajaib** |[✔️](https://github.com/ImleviOfc) |
+| **Quotes** |[✔️](https://github.com/ImleviOfc) |
+| **Anime** |[✔️](https://github.com/ImleviOfc) |
+| **Premium** |[✔️](https://github.com/ImleviOfc) |
+| **Tools** |[✔️](https://github.com/ImleviOfc) |
+| **Exec** |[✔️](https://github.com/ImleviOfc) |
+| **React** |[✔️](https://github.com/ImleviOfc) |
 ---------
 ![Zhirrr github stats](https://github-readme-stats.vercel.app/api?username=KiZakiXD&show_icons=true&theme=tokyonight)
 
@@ -264,7 +264,7 @@ conn.sendButton(m.chat, 'Hello world!', '@BochilGaming', 'https://github.com/Boc
 * [`BochilGaming`](https://github.com/bochilgaming)
 
 ## ```Recode By 💌```
-[![Fangz BOT] [Vinz](https://github.com/Fangzbotz2007.png?size=100)](https://github.com/ShionMDv.png?size=100)
+[![Fangz BOT] [Levi Xhiao](https://github.com/Fangzbotz2007.png?size=100)](https://github.com/ShionMDv.png?size=100)
 
 ## ```Contributor 📣```
 * [`The.Sad.Boy01`](https://github.com/Kangsad01)
