@@ -5,9 +5,9 @@ let text = `${htki} MOTION PAY ${htka}
 
 💌 *Pembayaran*
 💳 Via: Motion Pay
-📞 Nomor: Nomor Mati
-👤 A/n: Vinz
-📦 Mitra: xʜɪᴍᴍᴇʀ ʙᴏᴛ࿐
+📞 Nomor: ------
+👤 A/n: Levi Xhiao
+📦 Mitra: VEN-BOT
 💰 Metode pembayaran: Online ( ~Cod~ )
 
 📣 *Beli*
