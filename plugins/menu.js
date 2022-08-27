@@ -224,11 +224,11 @@ let handler = async (m, { conn, usedPrefix: _p, __dirname, args }) => {
    {
 	title: `${htki} MAIN ${htka}`,
 	rows: [
-	    {title: `📛 ${pmenus} INFO BOT`, rowId: ".info", description: "Menampilkan kecepatan respon xʜɪᴍᴍᴇʀ ʙᴏᴛ࿐"},
-	    {title: `💌 ${pmenus} OWNER`, rowId: ".owner", description: "Menampilkan List owner xʜɪᴍᴍᴇʀ ʙᴏᴛ࿐"},
+	    {title: `📛 ${pmenus} INFO BOT`, rowId: ".info", description: "Menampilkan kecepatan respon VEN-BOT"},
+	    {title: `💌 ${pmenus} OWNER`, rowId: ".owner", description: "Menampilkan List owner VEN-BOT"},
 	    {title: `📔 ${pmenus} SCRIPT`, rowId: ".sc", description: `Source Code ${namebot}`},
 	{title: `📮 ${pmenus} S&K BOT`, rowId: ".rules", description: `Peraturan menggunakan ${namebot}`},
-	{title: `🗣️ ${pmenus} REQUEST FITUR`, rowId: ".request", description: "Request fitur xʜɪᴍᴍᴇʀ ʙᴏᴛ࿐"},
+	{title: `🗣️ ${pmenus} REQUEST FITUR`, rowId: ".request", description: "Request fitur VEN-BOT"},
 	]
     },{
 	title: `${htki} SUPPORT ${htka}`,
@@ -241,7 +241,7 @@ let handler = async (m, { conn, usedPrefix: _p, __dirname, args }) => {
 	{title: `🌐 ${pmenus} WҽႦʂιƚҽ`, rowId: ".website", description: 'Jangan lupa mampir'},
 	]
 	},{
-	title: `${htki} MENU xʜɪᴍᴍᴇʀ ʙᴏᴛ࿐${htka}`,
+	title: `${htki} MENU VEN-BOT${htka}`,
 	rows: [
 	    {title: `💬☜ ${pmenus} All`, rowId: ".? all", description: "Menampilkan Semua command BOT"},
 	    {title: `🌱☜ ${pmenus} Rpg`, rowId: ".? rpg", description: "Game Epic Rpg!"},
@@ -301,11 +301,11 @@ let tek = `*✧${ucapan()} ${conn.getName(m.sender)}*
 ${clockStringP(usrs.premiumTime - new Date())}` : ''}
 ╰═┅═━═┅═━═┅═━––––––๑
 
-               「 xʜɪᴍᴍᴇʀ ʙᴏᴛ࿐ 」
+               「 VEN-BOT 」
 `
 const listMessage = {
   text: tek,
-  footer: '📮xʜɪᴍᴍᴇʀ ʙᴏᴛ࿐ \n\n⌕ ❙❘❙❙❘❙❚~❙❘❙❙❚❙❘❙~❘❙❚❙❘❙❙❚~❙❘❙❙❘❙❚~❙❘ ⌕',
+  footer: '📮VEN-BOT \n\n⌕ ❙❘❙❙❘❙❚~❙❘❙❙❚❙❘❙~❘❙❚❙❘❙❙❚~❙❘❙❙❘❙❚~❙❘ ⌕',
   mentions: await conn.parseMention(tek),
   title: `${htki} *LIST MENU* ${htka}`,
   buttonText: `LIST FITUR`,
