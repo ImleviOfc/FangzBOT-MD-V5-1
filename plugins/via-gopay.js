@@ -7,7 +7,7 @@ Hay👋‹, ingin Donasi?
 💳 Via: Gopay
 📞 Nomor: ----
 👤 A/n: Levi Xhiao
-📝 Mitra: VENZ-BOT
+📝 Mitra: VEN-BOT
 💰 Metode pembayaran: Online ( ~Cod~ )
 
 
