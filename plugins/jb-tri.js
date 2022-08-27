@@ -5,9 +5,9 @@ let text = `${htki} PULSA ${htka}
 
 💌 *Pembayaran*
 💳 Via: Pulsa Indosat
-📞 Nomor: 085848453523
-👤 A/n: Vinz
-📦 Mitra: xʜɪᴍᴍᴇʀ ʙᴏᴛ࿐
+📞 Nomor: 085172446692
+👤 A/n: Levi Xhiao
+📦 Mitra: VEN-BOT
 💰 Metode pembayaran: Online ( ~Cod~ )
 
 📣 *Beli*
