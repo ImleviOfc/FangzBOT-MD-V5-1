@@ -45,19 +45,19 @@ handler.all = async function (m) {
 					title: global.ucapan,
 					body: wm,
 					mediaUrl: sgc,
-					description: 'Private Bot by Vinz',
+					description: 'Private Bot by Levi Xhiao',
 					previewType: "PHOTO",
 					thumbnail: await (await fetch(urls)).buffer(),
-					sourceUrl: "https://github.com/KaiZax",					
+					sourceUrl: "https://github.com/ImleviOfc",					
 				}
 			}
 		}
 		global.fakeig = {
          contextInfo: { externalAdReply: { showAdAttribution: true,
-            mediaUrl: "https://github.com/KaiZax",
+            mediaUrl: "https://github.com/ImleviOfc",
             mediaType: "VIDEO",
-            description: "https://github.com/KaiZax", 
-            title: 'Private Bot by Vinz',
+            description: "https://github.com/ImleviOfc", 
+            title: 'Private Bot by Levi Xhiao',
             body: wm,
             thumbnailUrl: pp,
             sourceUrl: sgc
@@ -65,10 +65,10 @@ handler.all = async function (m) {
     } }
 global.fakefb = {
          contextInfo: { externalAdReply: { showAdAttribution: true,
-            mediaUrl: "https://github.com/KaiZax",
+            mediaUrl: "https://github.com/ImleviOfc",
             mediaType: "VIDEO",
-            description: "https://github.com/KaiZax", 
-            title: 'Private Bot by Vinz',
+            description: "https://github.com/ImleviOfc", 
+            title: 'Private Bot by Levi Xhiao',
             body: wm,
             thumbnailUrl: pp,
             sourceUrl: sgc
