@@ -5,9 +5,9 @@ let text = `${htki} OVO ${htka}
 
 💌 *Pembayaran*
 💳 Via: Ovo
-📞 Nomor: Nomor Mati
-👤 A/n: Vinz
-📦 Mitra: xʜɪᴍᴍᴇʀ ʙᴏᴛ࿐
+📞 Nomor: -----
+👤 A/n: Levi Xhiao
+📦 Mitra: VEN-BOT
 💰 Metode pembayaran: Online ( ~Cod~ )
 
 📣 *Beli*
