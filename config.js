@@ -36,33 +36,33 @@ let wibh = moment.tz('Asia/Jakarta').format('HH')
 // Kalau gapunya di biarin aja!, atau ga di kasih tanda '-'
 
 // kalo ga punya ketik "-" atau biarin aja biar ada creditsnya :v
-global.sig = 'https://instagram.com/_alv.stn' //Instagram mu
-global.sgh = 'https://github.com/KaiZax' //Github mu
-global.sgc = 'https://chat.whatsapp.com/FmPgBh2lgqr3n1dv7aop8x' //Group WhatsApp mu
+global.sig = 'https://instagram.com/imleviofc?igshid=YmMyMTA2M2Y=' //Instagram mu
+global.sgh = 'https://github.com/ImleviOfc' //Github mu
+global.sgc = 'https://chat.whatsapp.com/CElgl37YTIJKzugfUYIwX6' //Group WhatsApp mu
 global.sdc = '---' //Discord Mu
 global.snh = 'https://nhentai.net/g/365296/' //Make ini ana gausah di ganti.
 
 /*⫘⫘⫘⫘ALL PAYMENT⫘⫘⫘⫘⫘*/
-global.pdana = '087734910547' //Dana
+global.pdana = '085172446692' //Dana
 global.povo = '---' //Ovo
 global.pgopay = '---' //Gopay
-global.ppulsa = '087734910547' //Pulsa 
-global.ppulsa2 = '085848453523' //Pulsa, Kalau nomor cuma 1, yg ini kasih tanda -
+global.ppulsa = '085172446692' //Pulsa 
+global.ppulsa2 = '085172446692' //Pulsa, Kalau nomor cuma 1, yg ini kasih tanda -
 global.psaweria = 'Nyusul🗿' //Saweria
 
 /*⫘⫘⫘⫘ GLOBAL NOMOR ⫘⫘⫘⫘⫘*/
-global.nomorbot = '62877349105476' //Nomor Bot mu
-global.nomorown = '6287734910547' //Nomormu
-global.namebot = 'xʜɪᴍᴍᴇʀ ʙᴏᴛ࿐' //Nama bot mu
-global.nameown = '𝚅𝙸𝙽𝚉 𝙲𝚈𝚇' //Nama mu
+global.nomorbot = '6285171615843' //Nomor Bot mu
+global.nomorown = '6285172446692' //Nomormu
+global.namebot = 'VEN BOT' //Nama bot mu
+global.nameown = 'LEVI' //Nama mu
 
 
 /*⫘⫘⫘⫘ STAFF ⫘⫘⫘⫘⫘*/
 global.owner = [
-  ['6287734910547'], //Owner1
-  ['6287734910547'], //Owner2
-  ['6287734910547'], //Owner3
-  ['6287734910547', '𝚅𝙸𝙽𝚉 𝙲𝚈𝚇࿐ ! 😱', true] //Ini buat kamu!
+  ['6285172446692'], //Owner1
+  ['6285172446692'], //Owner2
+  ['6285172446692'], //Owner3
+  ['6285172446692', 'Levi ! 😱', true] //Ini buat kamu!
   // [number, dia creator/owner?, dia developer?]
 ] // Put your number here
 global.mods = [] // Want some help?
