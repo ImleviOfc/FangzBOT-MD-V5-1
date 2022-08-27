@@ -6,8 +6,8 @@ Hay👋‹, ingin Donasi?
 💌 *Pembayaran*
 💳 Via: Gopay
 📞 Nomor: ----
-👤 A/n: XhimmerBot
-📝 Mitra: -----
+👤 A/n: Levi Xhiao
+📝 Mitra: VENZ-BOT
 💰 Metode pembayaran: Online ( ~Cod~ )
 
 
