@@ -1045,7 +1045,7 @@ sourceUrl: sgc
  } 
 })
     let msgg = {
-    	unreg: '❗ᴀᴋꜱᴇꜱ ᴅɪ ᴛᴏʟᴀᴋ, ᴀɴᴅᴀ ᴘᴇʀʟᴜ ᴠᴇʀɪꜰɪᴋᴀꜱɪ ꜱᴇʙᴇʟᴜᴍ ᴍᴇɴɢɢᴜɴᴀᴋᴀɴ ꜰᴀɴɢᴢ ʙᴏᴛ\n\n📮➞ ᴋʟɪᴄᴋ ᴠᴇʀɪꜰɪᴋᴀꜱɪ ᴅɪ ʙᴀᴡᴀʜ ɪɴɪ'
+    	unreg: '❗ᴀᴋꜱᴇꜱ ᴅɪ ᴛᴏʟᴀᴋ, ᴀɴᴅᴀ ᴘᴇʀʟᴜ ᴠᴇʀɪꜰɪᴋᴀꜱɪ ꜱᴇʙᴇʟᴜᴍ ᴍᴇɴɢɢᴜɴᴀᴋᴀɴ 𝚅𝙴𝙽-𝙱𝙾𝚃\n\n📮➞ ᴋʟɪᴄᴋ ᴠᴇʀɪꜰɪᴋᴀꜱɪ ᴅɪ ʙᴀᴡᴀʜ ɪɴɪ'
 }[type]
 if (msgg) return conn.sendButton(m.chat, `${global.htki} VERIFY ${global.htka}`, msgg, null, ['- ᴠᴇʀɪғʏ -', '/verify'],m)
 }
