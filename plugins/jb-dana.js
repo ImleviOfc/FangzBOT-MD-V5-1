@@ -5,9 +5,9 @@ HayðŸ‘‹, ingin melanjutkan pembayaran?
 
 💌 *Pembayaran*
 💳 Via: Dana
-📞 Nomor: 087734910547
-👤 A/n: Vinz
-📦 Mitra: xʜɪᴍᴍᴇʀ ʙᴏᴛ࿐
+📞 Nomor: 085172446692
+👤 A/n: Levi Xhiao
+📦 Mitra: VEN-BOT
 💰 Metode pembayaran: Online ( ~Cod~ )
 
 📣 *Beli Bot*
