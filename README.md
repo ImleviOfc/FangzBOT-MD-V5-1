@@ -22,13 +22,13 @@
   <a href="https://wa.me/6285172446692">
     <img align="left" alt="SIEGRIN | Whastapp" width="26px" src="https://github.com/siegrin/siegrin/blob/main/Assets/Whatsapp.svg" />
   </a> &nbsp;&nbsp;
-  <a href="tiktok.com/@leviatnansyah">
+  <a href="https://www.tiktok.com/@leviatnansyah?_t=8UnaVTcn97p&_r=1">
     <img align="left" alt="SIEGRIN | Titkok" width="26px" src="https://github.com/siegrin/siegrin/blob/main/Assets/Tiktok.svg" />
   </a> &nbsp;&nbsp;
-  <a href="https://instagram.com/_alv.stn?igshid=YmMyMTA2M2Y=">
+  <a href="https://instagram.com/imleviofc?igshid=YmMyMTA2M2Y=">
     <img align="left" alt="SIEGRIN | Instagram" width="24px" src="https://github.com/siegrin/siegrin/blob/main/Assets/Instagram.svg" />
   </a> &nbsp;&nbsp;
-  <a href="mailto:alvinrinegar@gmail.com">
+  <a href="leviadnansyahlevi@gmail.com">
     <img align="left" alt="SIEGRIN | Gmail" width="26px" src="https://github.com/siegrin/siegrin/blob/main/Assets/Gmail.svg" />
   </a> &nbsp;&nbsp;
 ---------
