@@ -2,7 +2,7 @@ let handler = async (m, { conn }) => {
 let info = `
 *${htki} DONASI ${htka}*
 
-2022 xʜɪᴍᴍᴇʀ ʙᴏᴛ࿐ 
+2022 VENZ-BOT 
 `
 const sections = [
    {
