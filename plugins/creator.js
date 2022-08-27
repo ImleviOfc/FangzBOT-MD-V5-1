@@ -21,16 +21,16 @@ let handler  = async (m, { conn, command, args, usedPrefix, DevMode }) => {
 //------------ BIO
 let ppown = await conn.profilePictureUrl(nomorown + '@s.whatsapp.net', 'image').catch(_ => hwaifu[1]) 
 let teksbio = `${htki} *BIODATA* ${htka}
-*💌 Nama* : Vinz
-*✉️ Nama RL* : VinzCyx
+*💌 Nama* : VENZ-BOT
+*✉️ Nama RL* : Levi Xhiao
 *♂️ Gender* : Laki - laki
 *🕋 Agama* : Islam
-*⏰ Tanggal lahir* : 15 Maret 2004
-*🎨 Umur* : 18
-*🧮 Kelas* : Kuliah Asu😑
+*⏰ Tanggal lahir* : 7 desember 2007
+*🎨 Umur* : 14
+*🧮 Kelas* : 7
 *🧩 Hobby* : Nonton henta*, Nongkrong 🗿, ytta
 *💬 Sifat* : Baik, hode, softboy, tydack ramah, Toxic
-*🗺️ Tinggal* : Indonesia, jawa Tengah, Demak
+*🗺️ Tinggal* : Indonesia, Kalimantan timur, berau
 *❤️ Suka* : warnah pink & hitam, trap, waifu wangy, kucing
 *💔 Benci* : anak alay, autis, anak epep, sok asik
 
@@ -48,8 +48,8 @@ let teksbio = `${htki} *BIODATA* ${htka}
 🐈 *Github:* ${sgh}
 🥏 *Whatsapp* wa.me/${nomorown}
 🌐 *Discord:* Soon
-🌏 *Website:* https://github.com/KaiZax
-🎶 *Tiktok:* tiktok.com/@wvinz
+🌏 *Website:* https://github.com/ImleviOfc
+🎶 *Tiktok:* tiktok.com/@leviatnansyah
 
 `
   let teks = ' '
