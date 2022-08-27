@@ -6,8 +6,8 @@ Hay👋‹, ingin Donasi?
 💌 *Pembayaran*
 💳 Via: Ovo
 📞 Nomor: ----
-👤 A/n: ----
-📝 Mitra: XhimmerBot
+👤 A/n: Levi Xhiao
+📝 Mitra: VEN-BOT
 💰 Metode pembayaran: Online ( ~Cod~ )
 
 
