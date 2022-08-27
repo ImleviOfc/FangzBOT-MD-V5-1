@@ -53,7 +53,7 @@ global.psaweria = 'Nyusul🗿' //Saweria
 /*⫘⫘⫘⫘ GLOBAL NOMOR ⫘⫘⫘⫘⫘*/
 global.nomorbot = '6285171615843' //Nomor Bot mu
 global.nomorown = '6285172446692' //Nomormu
-global.namebot = 'VEN BOT' //Nama bot mu
+global.namebot = 'VENZ-BOT' //Nama bot mu
 global.nameown = 'LEVI' //Nama mu
 
 
@@ -62,7 +62,7 @@ global.owner = [
   ['6285172446692'], //Owner1
   ['6285172446692'], //Owner2
   ['6285172446692'], //Owner3
-  ['6285172446692', 'Levi ! 😱', true] //Ini buat kamu!
+  ['6285172446692', '𝙻𝙴𝚅𝙸 𝚇𝙷𝙸𝙰𝙾', true] //Ini buat kamu!
   // [number, dia creator/owner?, dia developer?]
 ] // Put your number here
 global.mods = [] // Want some help?
@@ -111,13 +111,13 @@ global.APIKeys = { // APIKey Here
 
 /*⫘⫘⫘⫘ WATERMAK ⫘⫘⫘⫘⫘*/
 //GANTI JANGAN NGASAL.
-global.wm = '                ≪•◦𝚅𝙸𝙽𝚉 ❈ 𝙲𝚈𝚇◦•≫' //Wm
-global.wm2 = '┏━°⌜ 𝚅𝙸𝙽𝚉 𝙲𝚈𝚇 ⌟°━┓' //Name Wm
-global.wm3 = '⫹⫺ 𝙓𝙃𝙄𝙈𝙈𝙀𝙍 𝘽𝙊𝙏'
+global.wm = '                ≪•◦𝚅𝙴𝙽 ❈ 𝙱𝙾𝚃𝚉◦•≫' //Wm
+global.wm2 = '┏━°⌜ 𝚅𝙴𝙽 𝙱𝙾𝚃𝚉 ⌟°━┓' //Name Wm
+global.wm3 = '⫹⫺ 𝙑𝙀𝙉 𝘽𝙊𝙏𝙕'
 global.botdate = `⫹⫺ 𝗗𝗮𝘁𝗲: ${week} ${date}`
 global.bottime = `𝗧 𝗜 𝗠 𝗘 : ${wktuwib}`
-global.titlebot = '𝐈𝐆: @_alv.stn' //Titlenya
-global.author = '                xʜɪᴍᴍᴇʀ ʙᴏᴛ࿐' //Wm author
+global.titlebot = '𝐈𝐆:@imleviofc ' //Titlenya
+global.author = '                VENZ-BOT' //Wm author
 
 
 /*⫘⫘⫘⫘ LOGO ⫘⫘⫘⫘⫘*/
@@ -159,7 +159,7 @@ global.cmenut = '✦╍╌╌╍╌╌╍ ◸'                       //top
 global.cmenuh = '◿ ╍╌╌╍╌╌╍'                        //header
 global.cmenub = '│◛ '                            //body
 global.cmenuf = '╰───···─────\n'                //footer
-global.cmenua = '\nBy https://github.com/KaiZax\n     ' //after
+global.cmenua = '\nBy https://github.com/ImleviOfc\n     ' //after
 global.pmenus = '│'                              //pembatas menu selector
 
 global.htki = '––––––◸' // Hiasan Titile (KIRI)
@@ -171,7 +171,7 @@ global.hsquere = ['⛶','❏','⫹⫺']
 
 /*⫘⫘⫘⫘ STICKER ⫘⫘⫘⫘⫘*/
 global.stickpack = '.'
-global.stickauth = `© Vinz Cyx\nOfc by Whatsapp\nNomor: ${global.nomorbot}`
+global.stickauth = `© Levi Xhiao\nOfc by Whatsapp\nNomor: ${global.nomorbot}`
 
 global.multiplier = 38 // The higher, The harder levelup
 
