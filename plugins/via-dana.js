@@ -5,9 +5,9 @@ Hay👋‹, ingin Donasi?
 
 💌 *Pembayaran*
 💳 Via: Dana 
-📞 Nomor: 087734910547
-👤 A/n: Vinz
-📝 Mitra: XhimmerBot
+📞 Nomor: 085172446692
+👤 A/n: Levi Xhiao
+📝 Mitra: VEN-BOT
 💰 Metode pembayaran: Online ( ~Cod~ )
 
 
