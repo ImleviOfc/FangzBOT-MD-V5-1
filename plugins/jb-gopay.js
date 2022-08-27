@@ -5,9 +5,9 @@ Hay👋‹, ingin melanjutkan pembayaran?
 
 💌 *Pembayaran*
 💳 Via: Gopay
-📞 Nomor: 087734910547
-👤 A/n: Vinz
-📦 Mitra: xʜɪᴍᴍᴇʀ ʙᴏᴛ࿐
+📞 Nomor: ------
+👤 A/n: Levi Xhiao
+📦 Mitra: VEN-BOT
 💰 Metode pembayaran: Online ( ~Cod~ )
 
 📣 *Beli*
