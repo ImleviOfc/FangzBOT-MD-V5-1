@@ -75,7 +75,7 @@ function start(file) {
     }
   })
   p.on('exit', (_, code) => {
-    isRunning = false
+    isRunning = true
     console.error('[❗] Exited with code:', code)
     if (code === 0) return
     watchFile(args[0], () => {
